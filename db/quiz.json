@@ -1,0 +1,49 @@
+{
+  "questions": [
+    {
+      "question": "Primary purpose of a Stack data structure?",
+      "options": ["LIFO order", "FIFO order", "Tree-like structure", "Efficiently search"],
+      "correct_answer": 0
+    },
+    {
+      "question": "Main characteristic of a Queue data structure?",
+      "options": ["LIFO order", "FIFO order", "Efficiently search", "Hierarchy"],
+      "correct_answer": 1
+    },
+    {
+      "question": "Primary advantage of a HashTable data structure?",
+      "options": ["Efficient insertion and deletion", "Tree-like structure", "Random order", "Complex relationships"],
+      "correct_answer": 0
+    },
+    {
+      "question": "Graph data structure commonly used for?",
+      "options": ["Sorting", "LIFO order", "Hash table key-value pairs", "Complex relationships"],
+      "correct_answer": 3
+    },
+    {
+      "question": "What is the time complexity of the binary search algorithm?",
+      "options": ["O(1)", "O(n)", "O(log n)", "O(n log n)"],
+      "correct_answer": 2
+    },
+    {
+      "question": "In computer science, what does 'SQL' stand for?",
+      "options": ["Structured Language", "Standard Query Language", "Sequential Query Language", "Structured Query Language"],
+      "correct_answer": 3
+    },
+    {
+      "question": "What does CSS stand for in web development?",
+      "options": ["Counter Style Sheets", "Computer Style Sheets", "Creative Style Sheets", "Cascading Style Sheets"],
+      "correct_answer": 3
+    },
+    {
+      "question": "Which programming language is known for its use in machine learning and data analysis?",
+      "options": ["Java", "Python", "C++", "JavaScript"],
+      "correct_answer": 1
+    },
+    {
+      "question": "What is the purpose of the 'npm' command in Node.js?",
+      "options": ["Node Package Manager", "New Project Module", "Node Project Manager", "New Package Module"],
+      "correct_answer": 0
+    }
+  ]
+}
